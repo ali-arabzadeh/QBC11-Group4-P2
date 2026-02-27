@@ -8,3 +8,6 @@ Quera AI Bootcamp Fall 1404 – Video-based Accident Detection &amp; Sentiment A
 * **Mahyar Ahmadi**
 * **Ehsan Rasoolian**
 
+
+## 🔗 Links
+* **Repository:** [https://github.com/ali-arabzadeh/QBC11-Group4-P2](https://github.com/ali-arabzadeh/QBC11-Group4-P2)
